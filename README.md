@@ -1,7 +1,7 @@
 #  About Me:
 I’m currently working on Full Stack projects: E-commerce platform with payments, Real-time task management tool, and Healthcare AI app. Also contributing to open-source React projects!<br> I’m looking to collaborate on Full-stack development projects, building scalable APIs, or frontend architecture. 
 ‣ Open to contributing to startups and open-source initiatives in React/Node.js ecosystem!<br> 
-‣ I’m looking for help with Optimizing React performance, implementing effective testing strategies (Jest/RTL), and understanding production-level DevOps practices (Docker, CI/CD).<br> 
+
 ‣ I’m currently learning Next.js 14 (Server Components), advanced state management patterns, implementing comprehensive testing strategies, and building production-grade REST APIs.<br>
 ‣ Ask me about MERN stack, React Flow integrations, blockchain basics, and project building strategies<br> Fun fact I debug faster after a cup of chai ☕, and I believe the best code is the code you don't have to write!
 
