@@ -1,5 +1,6 @@
 #  About Me:
-I’m currently working on Full Stack projects: E-commerce platform with payments, Real-time task management tool, and Healthcare AI app. Also contributing to open-source React projects!<br> I’m looking to collaborate on Full-stack development projects, building scalable APIs, or frontend architecture. 
+I’m currently working on Full Stack projects: E-commerce platform with payments, Real-time task management tool, and Healthcare AI app. Also contributing to open-source React projects!<br>
+‣ I’m looking to collaborate on Full-stack development projects, building scalable APIs, or frontend architecture. 
 ‣ Open to contributing to startups and open-source initiatives in React/Node.js ecosystem!<br> 
 
 ‣ I’m currently learning Next.js 14 (Server Components), advanced state management patterns, implementing comprehensive testing strategies, and building production-grade REST APIs.<br>
